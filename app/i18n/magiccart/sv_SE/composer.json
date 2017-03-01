@@ -1,0 +1,25 @@
+{
+  "name": "magiccart/sv_se",
+  "description": "Swedish translations Magento 2",
+  "authors": [
+    {
+      "email": "dev@magiccart.net",
+      "name": "Nguyen Dong, Magiccart",
+      "homepage": "http://magiccart.net",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "~5.5.0|~5.6.0|~7.0.0"
+  },
+  "type": "magento2-language",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
