@@ -4366,7 +4366,7 @@ Pending,Pendiente,module,Magento_Sales
 Refunded,Reembolsado,module,Magento_Sales
 Canceled,Cancelado,module,Magento_Sales
 "Unknown State","Estado desconocido",module,Magento_Sales
-"We found an invalid quantity to refund item ""%1"".","Encontramos una cantidad válida para devolver el elemento ""%1"".",module,Magento_Sales
+"We found an invalid quantity to refund item ""%1"".","Encontramos una cantidad inválida para devolver el elemento ""%1"".",module,Magento_Sales
 "Maximum shipping amount allowed to refund is: %1","Importe máximo permitido del envío para reembolsar es: %s",module,Magento_Sales
 "The most money available to refund is %1.","La mayor cantidad de dinero disponible para devolución es %1.",module,Magento_Sales
 "Could not delete credit memo","No se puede eliminar la nota de crédito",module,Magento_Sales
